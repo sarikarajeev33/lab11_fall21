@@ -1,5 +1,4 @@
 Lab 11
-Due: Mon Dec 7, 11:59pm
 
 Problem
 Accompanying this handout is the Python file lab11_recursion.py, which contains a program that measures the running time of recursive and iterative implementations of computing the n-th term of the Fibonacci sequence, and performing n random searches on a large, sorted list of integers. The recursive version of binary search is not implemented.
